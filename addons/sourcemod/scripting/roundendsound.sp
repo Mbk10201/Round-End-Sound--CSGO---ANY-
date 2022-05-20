@@ -17,7 +17,7 @@
 #include <multicolors>
 #include <clientprefs>
 
-#define MAXMUSIC 32
+#define MAXMUSIC 128
 
 KeyValues g_KV;
 int iLastMusic;
