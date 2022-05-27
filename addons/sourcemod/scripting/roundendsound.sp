@@ -93,6 +93,13 @@ public void OnPluginStart()
 		return;
 	}
 	
+	g_KV.Rewind();
+	
+	/*-------------------------------------------------------------------------------*/	
+}
+
+public void OnMapStart()
+{
 	char sTmp[8];
 	do
 	{
@@ -112,7 +119,6 @@ public void OnPluginStart()
 		}
 	}
 	while (g_KV.GotoNextKey());	
-	/*-------------------------------------------------------------------------------*/	
 }
 
 public Action Event_RoundEnd(Event event, const char[] name, bool dontBroadcast)
