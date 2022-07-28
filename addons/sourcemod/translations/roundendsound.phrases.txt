@@ -6,6 +6,7 @@
 		"en"	"{darkred}◾️ {default}Music: {lightred}{1}"
 		"fr"	"{darkred}◾️ {default}Musique: {lightred}{1}"
 		"pt"	"{darkred}◾️ {default}Música: {lightred}{1}"
+		"ro"	"{darkred}◾️ {default}Muzică: {lightred}{1}"
 	}
 	"RoundEndSound_Hud"
 	{
@@ -13,24 +14,28 @@
 		"en"	"<font color='#F90202'>◾️ Music:</font> <font size='2' color='#11B900'>{1}</font>"
 		"fr"	"<font color='#F90202'>◾️ Musique:</font> <font size='2' color='#11B900'>{1}</font>"
 		"pt"	"<font color='#F90202'>◾️ Música:</font> <font size='2' color='#11B900'>{1}</font>"
+		"ro"	"<font color='#F90202'>◾️ Muzică:</font> <font size='2' color='#11B900'>{1}</font>"
 	}
 	"MenuRes_Enable"
 	{
 		"en"	"Enable"
 		"fr"	"Activer"
 		"pt"	"Ativar"
+		"ro"	"Activare"
 	}
 	"MenuRes_Disable"
 	{
 		"en"	"Disable"
 		"fr"	"Désactiver"
 		"pt"	"Desativar"
+		"ro"	"Dezactivare"
 	}
 	"MenuRes_List"
 	{
 		"en"	"Music list"
 		"fr"	"Liste musique"
 		"pt"	"Lista de música"
+		"ro"	"Lista de muzică"
 	}
 	"MenuRes_Volume"
 	{
@@ -38,5 +43,6 @@
 		"en"	"Volume: {1}"
 		"fr"	"Volume: {1}"
 		"pt"	"Volume: {1}"
+		"ro"	"Volum: {1}"
 	}
 }
